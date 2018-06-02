@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:padding="10dp"
+    android:shape="rectangle" >
+
+    <solid android:color="#ac11ff" />
+
+    <corners
+        android:bottomLeftRadius="@dimen/body_email"
+        android:bottomRightRadius="@dimen/body_email"
+        android:topLeftRadius="@dimen/body_email"
+        android:topRightRadius="@dimen/body_email" />
+
+</shape>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">"Email Management"</string>
+    <string name="action_settings">Settings</string>
+    <string name="sended">Đã gửi</string>
+</resources>

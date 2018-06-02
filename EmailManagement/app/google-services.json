@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "375758455519",
+    "project_id": "quan-n2q-1"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:375758455519:android:84a35bc76e925138",
+        "android_client_info": {
+          "package_name": "androidmads.javamailwithgmailapi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "375758455519-iehhvepok1jn7v29s7skhpvsraetsvc3.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "375758455519-2gdlvpfncagemq3e1ubq3p9rie71rk14.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "androidmads.javamailwithgmailapi",
+            "certificate_hash": "11e235846b590c1e007842be9bfd01d83c484953"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxsuifNXq0F_dm4PmM0c-Tle5OnBgBfI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
